@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\b1042.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\b1042.dir/objects.a @CMakeFiles\b1042.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\b1042.dir/objects.a -Wl,--no-whole-archive -o b1042.exe -Wl,--out-implib,libb1042.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\b1042.dir\linklibs.rsp

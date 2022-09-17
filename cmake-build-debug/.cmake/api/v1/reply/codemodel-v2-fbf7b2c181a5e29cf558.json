@@ -1,0 +1,222 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PAT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "b1008::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1008-Debug-4350c1d7afd1f97f99af.json",
+					"name" : "b1008",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1009::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1009-Debug-a53b2f5e658fc48576af.json",
+					"name" : "b1009",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1010::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1010-Debug-0e39b6efeae652aab583.json",
+					"name" : "b1010",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1016::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1016-Debug-b05c72d198bdb4dbea91.json",
+					"name" : "b1016",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1021::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1021-Debug-9cefb87276c6bcfb1747.json",
+					"name" : "b1021",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1023::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1023-Debug-56bb1f083d6ae7fe06d9.json",
+					"name" : "b1023",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1036::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1036-Debug-a38b1b4df39def8d4c6a.json",
+					"name" : "b1036",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1037::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1037-Debug-f35272343206bb8535fe.json",
+					"name" : "b1037",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1041::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1041-Debug-d21b52d6e9de6659d42f.json",
+					"name" : "b1041",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1042::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1042-Debug-8d7eae559c39e1474404.json",
+					"name" : "b1042",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1043::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1043-Debug-f7e20d40d4cf595f3c8b.json",
+					"name" : "b1043",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1046::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1046-Debug-eb530f4306337c998a5f.json",
+					"name" : "b1046",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1047::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1047-Debug-c79c9f7911f6f0f8399a.json",
+					"name" : "b1047",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1061::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1061-Debug-3e9da8ed6b093737c3c0.json",
+					"name" : "b1061",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1063::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1063-Debug-f1b7436b38414184177e.json",
+					"name" : "b1063",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1076::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1076-Debug-4d791a80d1ec34f29905.json",
+					"name" : "b1076",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1087::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1087-Debug-b5e6efc53a573b9246a0.json",
+					"name" : "b1087",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "b1093::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-b1093-Debug-fab14ebd9237274b2d6b.json",
+					"name" : "b1093",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-121b5cb3636252c3694d.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/WorkSpace/Algorithm/algorithm/pat/cmake-build-debug",
+		"source" : "D:/WorkSpace/Algorithm/algorithm/pat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
